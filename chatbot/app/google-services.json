@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "736467236237",
+    "project_id": "chatbot-da200",
+    "storage_bucket": "chatbot-da200.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736467236237:android:44c38ec36519d2182df9c4",
+        "android_client_info": {
+          "package_name": "com.example.chatbot_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736467236237-97kfo23m9ebkf8h4udmbv7ti6n8bh217.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnLcvhknytUMplZczDp3SES8T02OtkCCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736467236237-97kfo23m9ebkf8h4udmbv7ti6n8bh217.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
