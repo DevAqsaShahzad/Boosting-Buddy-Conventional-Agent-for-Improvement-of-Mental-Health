@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyChatbotApplication</string>
+    <string name="hello">Hello</string>
+    <string name="hello_there">hello there</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="username">username</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="register">Register</string>
+    <string name="Register">register</string>
+    <string name="login">login</string>
+    <string name="Login">Login</string>
+    <string name="my_chatbot_app">My Chatbot App</string>
+</resources>

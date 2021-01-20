@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".StartActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/my_chatbot_app"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:layout_marginTop="100dp"
+        android:layout_gravity="center"
+        >
+    </TextView>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="90dp"
+        android:id="@+id/login"
+        android:text="@string/Login"
+        android:background="@color/teal_700"
+        android:textColor="#fff"
+        android:padding="10dp"
+        android:textSize="20sp"
+        android:hint="@string/login"
+        app:backgroundTint="#009688"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:id="@+id/register"
+        android:text="@string/Register"
+        android:background="@color/teal_700"
+        android:textColor="#fff"
+        android:textSize="20sp"
+        android:padding="10dp"
+        android:hint="@string/login"
+        app:backgroundTint="#009688"
+        />
+
+</LinearLayout>
